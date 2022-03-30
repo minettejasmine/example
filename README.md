@@ -1,2 +1,2 @@
 # example
-example; practicing skills
+example; practicing skills and GitHub Desktop app
